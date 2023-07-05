@@ -1,4 +1,4 @@
-# Gestión de Licencias Citrix
+# Citrix - Gestión de Licencias
 ## Liberar licencias asignadas a usarios o dispositivos
 
 1. Conectarse al servidor de licencias Citrix.
@@ -15,7 +15,7 @@ udadmin -list -a
 - -list: lista usuarios/dispositivos desde la última actualización.
 - -a: enumera todas las características y versiones.
 
-![script_bypass_ps_executionpolicy](screenshots/licensing_citrix_udadmin.png)
+![licensing_citrix_udadmin](screenshots/licensing_citrix_udadmin.png)
 
 4. Liberar licencias asignadas a usuarios o dispositivos.
 ```cmd
@@ -31,4 +31,4 @@ Después de volver a comprobar con udadmin -list -a hay que tener en cuenta que 
 
 Otra forma de ver el número de licencias ocupadas y disponibles es a través de la propia consola de Citrix Studio. Desde aquí no podremos ver a que usuarios o dispositivos están asignadas ni liberarlas, simplemente vemos de forma gráfica el estado actual de asignación.
 
-![script_bypass_ps_executionpolicy](screenshots/licensing_citrix_studio.png)
+![licensing_citrix_studio](screenshots/licensing_citrix_studio.png)
