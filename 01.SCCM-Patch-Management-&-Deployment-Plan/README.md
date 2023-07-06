@@ -89,8 +89,10 @@ Se puede realizar un seguimiento más en detalle de cada uno de los despliegues,
 
 ## Windows Update - Deployment Plan
 
-Plan de despliegue de Windows Update. Ejemplo de un calendario de 2020 en un escenario donde se compone de una sede central con un mayor parque de activos y varias sedes internacionales divididas en colecciones con un menor parque de activos.
+Plan de despliegue de Windows Update. 
 
--  [Deployment_Plan_WUpdates_Calendario_2020.xlsx](Deployment_Plan_WUpdates_Calendario_2020.xlsx)
+Plantilla de ejemplo de un calendario de 2020 en un escenario donde se compone de una sede central con un mayor parque de activos y varias sedes internacionales divididas en colecciones con un menor parque de activos.
 
-![15-deployment_plan_wupdates_calendario_2020](screenshots/15-deployment_plan_wupdates_calendario_2020.png)
+-  [Deployment_Plan_WUpdates_Calendario_2020.xlsx](Deployment_Plan_WUpdates_Plantilla_Calendario_2020.xlsx)
+
+![15-deployment_plan_wupdates_calendario_2020](screenshots/15-deployment_plan_wupdates_plantilla_calendario_2020.png)
