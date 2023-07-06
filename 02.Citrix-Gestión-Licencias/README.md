@@ -1,5 +1,5 @@
 # Citrix - Gestión de Licencias
-## Liberar licencias asignadas a usarios o dispositivos
+## Liberar licencias asignadas a usuarios o dispositivos
 
 1. Conectarse al servidor de licencias Citrix.
 
